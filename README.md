@@ -1,16 +1,15 @@
-## Hi there 👋
+### I'm Kyle Loomis
 
-<!--
-**kyleloomis/kyleloomis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💹 Founder & CEO at [Spotlight](https://spotlight.dev) <br>
+🗽 Living in NYC
 
-Here are some ideas to get you started:
+### What I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Currently building capital market fintech applications - [Spotlight](https://spotlight.dev) <br>
+
+### Find me elsewhere 🌎
+
+🚀 [Site](https://kyleloomis.com) <br>
+🐦 [Twitter](https://twitter.com/kylewloomis) <br>
+📸 [Instagram](https://instagram.com/kylewloomis) <br>
+💼 [LinkedIn](https://www.linkedin.com/in/kyle-loomis) <br>
