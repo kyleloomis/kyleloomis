@@ -1,11 +1,12 @@
 ### I'm Kyle Loomis
 
-💹 Founder & CEO at [Spotlight](https://spotlight.dev) <br>
+🏦 Currently Senior Engineer at [Cadma](https://www.cadma.com) <br>
+🌽 Previously Founder & CEO at [Spotlight](https://spotlight.dev) <br>
 🗽 Living in NYC
 
 ### What I'm working on 👨‍💻
 
-🛠️ Currently building capital market fintech applications - [Spotlight](https://spotlight.dev) <br>
+🛠️ Currently building a platform for private credit <br>
 
 ### Find me elsewhere 🌎
 
