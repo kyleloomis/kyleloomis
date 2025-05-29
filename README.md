@@ -6,7 +6,7 @@
 
 ### What I'm working on 👨‍💻
 
-🛠️ Currently building a platform for private credit <br>
+🛠️ Currently building tech at Cadma <br>
 
 ### Find me elsewhere 🌎
 
